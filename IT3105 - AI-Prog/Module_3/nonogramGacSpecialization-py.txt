@@ -1,0 +1,4 @@
+class NONOGRAM_GAC_SPECIALIZATION(object):
+
+	def __init__(self):
+		

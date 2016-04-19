@@ -1,0 +1,2258 @@
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 46
+Average ANN tile: 56
+P-value: 0.0000002770
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 42.52
+Average ANN tile: 52
+P-value: 0.0000270806
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.04
+Average ANN tile: 50
+P-value: 0.0027656776
+Number of demo points: 3/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.94
+Average ANN tile: 58
+P-value: 0.0000000013
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.46
+Average ANN tile: 51
+P-value: 0.0011311190
+Number of demo points: 3/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.36
+Average ANN tile: 60
+P-value: 0.0000000000
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.04
+Average ANN tile: 54
+P-value: 0.0000002885
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 46.12
+Average ANN tile: 58
+P-value: 0.0000001813
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 45.24
+Average ANN tile: 59
+P-value: 0.0000001182
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.42
+Average ANN tile: 54
+P-value: 0.0000155634
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.72
+Average ANN tile: 54
+P-value: 0.0000447324
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.08
+Average ANN tile: 57
+P-value: 0.0000000012
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.04
+Average ANN tile: 49
+P-value: 0.0039853199
+Number of demo points: 3/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.6
+Average ANN tile: 52
+P-value: 0.0010650546
+Number of demo points: 3/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.82
+Average ANN tile: 49
+P-value: 0.0370042910
+Number of demo points: 2/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.14
+Average ANN tile: 50
+P-value: 0.0000833107
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.12
+Average ANN tile: 48
+P-value: 0.0569145426
+Number of demo points: 2/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 40.52
+Average ANN tile: 55
+P-value: 0.0000000000
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.6
+Average ANN tile: 60
+P-value: 0.0000000002
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.64
+Average ANN tile: 56
+P-value: 0.0000000567
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 41.64
+Average ANN tile: 51
+P-value: 0.0000416399
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 42.04
+Average ANN tile: 56
+P-value: 0.0000000039
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 42.68
+Average ANN tile: 55
+P-value: 0.0000003641
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.42
+Average ANN tile: 55
+P-value: 0.0000024146
+Number of demo points: 6/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 45.86
+Average ANN tile: 53
+P-value: 0.0001525252
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.01 dataset: ai
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+Topology: [19, 4] lr: 0.01 dataset: ai
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.04
+Average ANN tile: 52
+P-value: 0.0000038929
+Number of demo points: 6/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.68
+Average ANN tile: 48
+P-value: 0.0258102344
+Number of demo points: 2/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 47.4
+Average ANN tile: 55
+P-value: 0.0004510792
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 42.3
+Average ANN tile: 48
+P-value: 0.0013203612
+Number of demo points: 3/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.38
+Average ANN tile: 47
+P-value: 0.1854021652
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.56
+Average ANN tile: 48
+P-value: 0.0399352984
+Number of demo points: 2/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.3
+Average ANN tile: 54
+P-value: 0.0000015265
+Number of demo points: 6/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.86
+Average ANN tile: 48
+P-value: 0.0745565156
+Number of demo points: 2/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.2
+Average ANN tile: 56
+P-value: 0.0000001759
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.48
+Average ANN tile: 58
+P-value: 0.0000000002
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.24
+Average ANN tile: 48
+P-value: 0.0433402794
+Number of demo points: 2/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 41.96
+Average ANN tile: 54
+P-value: 0.0000000975
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 45.04
+Average ANN tile: 53
+P-value: 0.0001651922
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.82
+Average ANN tile: 49
+P-value: 0.0184068413
+Number of demo points: 2/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 41.3
+Average ANN tile: 52
+P-value: 0.0000014747
+Number of demo points: 6/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44
+Average ANN tile: 53
+P-value: 0.0000236383
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 42.26
+Average ANN tile: 50
+P-value: 0.0006590177
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.38
+Average ANN tile: 54
+P-value: 0.0000021250
+Number of demo points: 6/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 45.24
+Average ANN tile: 54
+P-value: 0.0000334830
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 41.3
+Average ANN tile: 48
+P-value: 0.0007336960
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.44
+Average ANN tile: 54
+P-value: 0.0000007003
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.74
+Average ANN tile: 54
+P-value: 0.0000002704
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.48
+Average ANN tile: 52
+P-value: 0.0000264266
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.42
+Average ANN tile: 54
+P-value: 0.0000012520
+Number of demo points: 6/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.06
+Average ANN tile: 47
+P-value: 0.1107640759
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.9
+Average ANN tile: 51
+P-value: 0.0004093246
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.32
+Average ANN tile: 49
+P-value: 0.0302028538
+Number of demo points: 2/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.78
+Average ANN tile: 50
+P-value: 0.0025729653
+Number of demo points: 3/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.56
+Average ANN tile: 51
+P-value: 0.0006240005
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 42.78
+Average ANN tile: 59
+P-value: 0.0000000000
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.14
+Average ANN tile: 47
+P-value: 0.0694269641
+Number of demo points: 2/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 45.02
+Average ANN tile: 54
+P-value: 0.0000469924
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.6
+Average ANN tile: 56
+P-value: 0.0000000134
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 45.34
+Average ANN tile: 55
+P-value: 0.0000525679
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 42.68
+Average ANN tile: 52
+P-value: 0.0000683237
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.88
+Average ANN tile: 54
+P-value: 0.0000001085
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 42.08
+Average ANN tile: 47
+P-value: 0.0058716182
+Number of demo points: 3/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 45.46
+Average ANN tile: 57
+P-value: 0.0000006001
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 42.6
+Average ANN tile: 52
+P-value: 0.0000330766
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 42.26
+Average ANN tile: 53
+P-value: 0.0000007025
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 45.38
+Average ANN tile: 56
+P-value: 0.0000021043
+Number of demo points: 6/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.56
+Average ANN tile: 50
+P-value: 0.0077066798
+Number of demo points: 3/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 44.48
+Average ANN tile: 54
+P-value: 0.0000004478
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.04
+Average ANN tile: 54
+P-value: 0.0000000551
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 42.52
+Average ANN tile: 57
+P-value: 0.0000000000
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 41.3
+Average ANN tile: 50
+P-value: 0.0000817152
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.94
+Average ANN tile: 45
+P-value: 0.3869193519
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.01 dataset: human
+Average random tile: 43.98
+Average ANN tile: 53
+P-value: 0.0000234528
+Number of demo points: 5/7
+avg: 4.6875
+Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 45.12
+Average ANN tile: 47
+P-value: 0.3759576784
+Number of demo points: 1/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 44.86
+Average ANN tile: 46
+P-value: 0.4031869704
+Number of demo points: 1/7
+Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 44.22
+Average ANN tile: 49
+P-value: 0.0335212478
+Number of demo points: 2/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 44.64
+Average ANN tile: 48
+P-value: 0.0558593072
+Number of demo points: 2/7
+Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 44.6
+Average ANN tile: 47
+P-value: 0.1305785311
+Number of demo points: 1/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 42.22
+Average ANN tile: 43
+P-value: 0.4018449602
+Number of demo points: 1/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 41.58
+Average ANN tile: 52
+P-value: 0.0000013658
+Number of demo points: 6/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 43.08
+Average ANN tile: 44
+P-value: 0.5968644355
+Number of demo points: 1/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 41.94
+Average ANN tile: 55
+P-value: 0.0000000812
+Number of demo points: 7/7
+Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 42.38
+Average ANN tile: 42
+P-value: 0.7921820888
+Number of demo points: 1/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 41.86
+Average ANN tile: 46
+P-value: 0.0275388405
+Number of demo points: 2/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 43.34
+Average ANN tile: 50
+P-value: 0.0013842805
+Number of demo points: 3/7
+Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 41
+Average ANN tile: 50
+P-value: 0.0000061208
+Number of demo points: 6/7
+Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 45.52
+Average ANN tile: 50
+P-value: 0.0211661710
+Number of demo points: 2/7
+Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 42.94
+Average ANN tile: 52
+P-value: 0.0000626485
+Number of demo points: 5/7
+Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 43.5
+Average ANN tile: 55
+P-value: 0.0000003851
+Number of demo points: 7/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 47.16
+Average ANN tile: 52
+P-value: 0.0258272248
+Number of demo points: 2/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 43.18
+Average ANN tile: 47
+P-value: 0.0182863075
+Number of demo points: 2/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 45.5
+Average ANN tile: 46
+P-value: 0.5186948494
+Number of demo points: 1/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 43.78
+Average ANN tile: 51
+P-value: 0.0012575025
+Number of demo points: 3/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 43.68
+Average ANN tile: 51
+P-value: 0.0014127452
+Number of demo points: 3/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 43.74
+Average ANN tile: 47
+P-value: 0.0558983783
+Number of demo points: 2/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 43.26
+Average ANN tile: 49
+P-value: 0.0029877958
+Number of demo points: 3/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 44.96
+Average ANN tile: 52
+P-value: 0.0010728698
+Number of demo points: 3/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 44.64
+Average ANN tile: 52
+P-value: 0.0007024256
+Number of demo points: 4/7
+Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 42.44
+Average ANN tile: 52
+P-value: 0.0000040822
+Number of demo points: 6/7
+Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 43.16
+Average ANN tile: 53
+P-value: 0.0000233138
+Number of demo points: 5/7
+Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 46.46
+Average ANN tile: 54
+P-value: 0.0001262336
+Number of demo points: 4/7
+Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 43.62
+Average ANN tile: 46
+P-value: 0.1895744785
+Number of demo points: 1/7
+Topology: [50, 40] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50, 40] lr: 0.01 dataset: human
+Average random tile: 42.1
+Average ANN tile: 50
+P-value: 0.0009794685
+Number of demo points: 4/7
+avg: 3.033333333333333
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 42.22
+Average ANN tile: 43
+P-value: 0.6569172790
+Number of demo points: 1/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 43.56
+Average ANN tile: 46
+P-value: 0.1479115227
+Number of demo points: 1/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 44.28
+Average ANN tile: 45
+P-value: 0.6515517988
+Number of demo points: 1/7
+Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+Average random tile: 45.76
+Average ANN tile: 50
+P-value: 0.0454773370
+Number of demo points: 2/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 41.84
+Average ANN tile: 51
+P-value: 0.0000161841
+Number of demo points: 5/7
+Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+Average random tile: 43.94
+Average ANN tile: 52
+P-value: 0.0002809165
+Number of demo points: 4/7
+Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+Average random tile: 43.04
+Average ANN tile: 47
+P-value: 0.0329826363
+Number of demo points: 2/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 46.8
+Average ANN tile: 50
+P-value: 0.0532877506
+Number of demo points: 2/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 40.38
+Average ANN tile: 44
+P-value: 0.0815654887
+Number of demo points: 2/7
+Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+Average random tile: 44.46
+Average ANN tile: 49
+P-value: 0.0259797483
+Number of demo points: 2/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 44.24
+Average ANN tile: 48
+P-value: 0.0554861881
+Number of demo points: 2/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 44.6
+Average ANN tile: 55
+P-value: 0.0000031963
+Number of demo points: 6/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 43.16
+Average ANN tile: 44
+P-value: 0.5363052064
+Number of demo points: 1/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 43.08
+Average ANN tile: 48
+P-value: 0.0193543662
+Number of demo points: 2/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 42.52
+Average ANN tile: 58
+P-value: 0.0000000000
+Number of demo points: 7/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 43.86
+Average ANN tile: 45
+P-value: 0.4680890186
+Number of demo points: 1/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 42.96
+Average ANN tile: 53
+P-value: 0.0000000542
+Number of demo points: 7/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 43.64
+Average ANN tile: 52
+P-value: 0.0003237738
+Number of demo points: 4/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 43.94
+Average ANN tile: 52
+P-value: 0.0002332204
+Number of demo points: 4/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 44.78
+Average ANN tile: 50
+P-value: 0.0057765763
+Number of demo points: 3/7
+Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+Average random tile: 44.56
+Average ANN tile: 49
+P-value: 0.0231510260
+Number of demo points: 2/7
+Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+Average random tile: 43.38
+Average ANN tile: 47
+P-value: 0.0223342047
+Number of demo points: 2/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 43.22
+Average ANN tile: 50
+P-value: 0.0009916693
+Number of demo points: 4/7
+Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+Average random tile: 43.7
+Average ANN tile: 54
+P-value: 0.0000006803
+Number of demo points: 7/7
+Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+Average random tile: 44.72
+Average ANN tile: 48
+P-value: 0.0863200024
+Number of demo points: 2/7
+Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+Average random tile: 42.9
+Average ANN tile: 52
+P-value: 0.0000664708
+Number of demo points: 5/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 44.82
+Average ANN tile: 44
+P-value: 0.9468217766
+Number of demo points: 1/7
+Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+Average random tile: 43.86
+Average ANN tile: 51
+P-value: 0.0008467463
+Number of demo points: 4/7
+Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+Average random tile: 41.44
+Average ANN tile: 55
+P-value: 0.0000000073
+Number of demo points: 7/7
+Topology: [250] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [250] lr: 0.01 dataset: human
+Average random tile: 43.06
+Average ANN tile: 51
+P-value: 0.0004329486
+Number of demo points: 4/7
+Topology: [250] lr: 0.01 dataset: human
+Average random tile: 45.16
+Average ANN tile: 47
+P-value: 0.2758814180
+Number of demo points: 1/7
+avg: 3.161290322580645
+Topology: [19, 4] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 4] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 4] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 4] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 4] lr: 0.01 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 4] lr: 0.001 dataset: human
+Average random tile: 43
+Average ANN tile: 46
+P-value: 0.0838050336
+Number of demo points: 2/7
+avg: 2.0
+Topology: [19, 4] lr: 0.001 dataset: human
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 4] lr: 0.001 dataset: human
+Average random tile: 44.38
+Average ANN tile: 52
+P-value: 0.0003648248
+Number of demo points: 4/7
+avg: 4.0
+Topology: [19, 4] lr: 0.001 dataset: human
+Average random tile: 43.34
+Average ANN tile: 49
+P-value: 0.0035220493
+Number of demo points: 3/7
+avg: 3.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.82
+Average ANN tile: 46
+P-value: 0.3792756126
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 45.82
+Average ANN tile: 50
+P-value: 0.0294224744
+Number of demo points: 2/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 45.68
+Average ANN tile: 52
+P-value: 0.0030854967
+Number of demo points: 3/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.22
+Average ANN tile: 56
+P-value: 0.0000000001
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.78
+Average ANN tile: 54
+P-value: 0.0000011849
+Number of demo points: 6/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.14
+Average ANN tile: 49
+P-value: 0.0008847057
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 45
+Average ANN tile: 50
+P-value: 0.0102401448
+Number of demo points: 2/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.48
+Average ANN tile: 48
+P-value: 0.0427508600
+Number of demo points: 2/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 3.375
+Topology: [30, 20] lr: 0.001 dataset: human - normalized
+Average random tile: 43.96
+Average ANN tile: 53
+P-value: 0.0000031604
+Number of demo points: 6/7
+Topology: [30, 20] lr: 0.001 dataset: human - normalized
+Average random tile: 45.02
+Average ANN tile: 55
+P-value: 0.0000324097
+Number of demo points: 5/7
+Topology: [30, 20] lr: 0.001 dataset: human - normalized
+Average random tile: 42.72
+Average ANN tile: 56
+P-value: 0.0000001125
+Number of demo points: 7/7
+Topology: [30, 20] lr: 0.001 dataset: human - normalized
+Average random tile: 40.14
+Average ANN tile: 49
+P-value: 0.0000070835
+Number of demo points: 6/7
+Topology: [30, 20] lr: 0.001 dataset: human - normalized
+Average random tile: 43.2
+Average ANN tile: 48
+P-value: 0.0422976892
+Number of demo points: 2/7
+Topology: [30, 20] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [30, 20] lr: 0.001 dataset: human - normalized
+Average random tile: 41.66
+Average ANN tile: 51
+P-value: 0.0000303667
+Number of demo points: 5/7
+Topology: [30, 20] lr: 0.001 dataset: human - normalized
+Average random tile: 41.96
+Average ANN tile: 42
+P-value: 0.9497381018
+Number of demo points: 1/7
+Topology: [30, 20] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [30, 20] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 4.571428571428571
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.02
+Average ANN tile: 58
+P-value: 0.0000000001
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 41.64
+Average ANN tile: 43
+P-value: 0.3849126472
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.86
+Average ANN tile: 53
+P-value: 0.0001136296
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.54
+Average ANN tile: 56
+P-value: 0.0000000505
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.48
+Average ANN tile: 60
+P-value: 0.0000000000
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.52
+Average ANN tile: 55
+P-value: 0.0000000517
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 45.32
+Average ANN tile: 53
+P-value: 0.0004054384
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.08
+Average ANN tile: 55
+P-value: 0.0000012199
+Number of demo points: 6/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.12
+Average ANN tile: 46
+P-value: 0.1600922125
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.2
+Average ANN tile: 45
+P-value: 0.4705461047
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.34
+Average ANN tile: 58
+P-value: 0.0000000057
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.8
+Average ANN tile: 50
+P-value: 0.0007228414
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.26
+Average ANN tile: 58
+P-value: 0.0000000298
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 41.88
+Average ANN tile: 55
+P-value: 0.0000000001
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.26
+Average ANN tile: 49
+P-value: 0.0016144842
+Number of demo points: 3/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.86
+Average ANN tile: 60
+P-value: 0.0000000000
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 45.12
+Average ANN tile: 50
+P-value: 0.0047782445
+Number of demo points: 3/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.44
+Average ANN tile: 54
+P-value: 0.0000000464
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.78
+Average ANN tile: 61
+P-value: 0.0000000007
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 45.16
+Average ANN tile: 53
+P-value: 0.0001945584
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 41.88
+Average ANN tile: 52
+P-value: 0.0000007459
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.34
+Average ANN tile: 52
+P-value: 0.0002616914
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.08
+Average ANN tile: 51
+P-value: 0.0004338576
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.18
+Average ANN tile: 58
+P-value: 0.0000000002
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.34
+Average ANN tile: 50
+P-value: 0.0004665213
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.56
+Average ANN tile: 50
+P-value: 0.0001994489
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.42
+Average ANN tile: 55
+P-value: 0.0000003655
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44
+Average ANN tile: 45
+P-value: 0.5408610712
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.2
+Average ANN tile: 53
+P-value: 0.0000248600
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.22
+Average ANN tile: 59
+P-value: 0.0000000000
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.08
+Average ANN tile: 60
+P-value: 0.0000000000
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 45.2
+Average ANN tile: 54
+P-value: 0.0000503804
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.9
+Average ANN tile: 57
+P-value: 0.0000000329
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.28
+Average ANN tile: 54
+P-value: 0.0000160232
+Number of demo points: 5/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.18
+Average ANN tile: 42
+P-value: 0.8613844027
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.26
+Average ANN tile: 53
+P-value: 0.0000001313
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.92
+Average ANN tile: 60
+P-value: 0.0000000000
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.82
+Average ANN tile: 45
+P-value: 0.4053569835
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.64
+Average ANN tile: 57
+P-value: 0.0000002726
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.34
+Average ANN tile: 43
+P-value: 0.5411110653
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.3
+Average ANN tile: 49
+P-value: 0.0004668146
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 45.56
+Average ANN tile: 46
+P-value: 0.6154908184
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.68
+Average ANN tile: 45
+P-value: 0.3961257869
+Number of demo points: 1/7
+avg: 1.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Error: Expected 2 lists with 50 integers each, found 51 integers instead.
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.9
+Average ANN tile: 51
+P-value: 0.0009782277
+Number of demo points: 4/7
+avg: 4.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.02
+Average ANN tile: 45
+P-value: 0.5908571070
+Number of demo points: 1/7
+avg: 1.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.74
+Average ANN tile: 46
+P-value: 0.0911517352
+Number of demo points: 2/7
+avg: 2.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.9
+Average ANN tile: 50
+P-value: 0.0042236765
+Number of demo points: 3/7
+avg: 3.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.9
+Average ANN tile: 46
+P-value: 0.0811514869
+Number of demo points: 2/7
+avg: 2.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.02
+Average ANN tile: 53
+P-value: 0.0000937609
+Number of demo points: 5/7
+avg: 5.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.64
+Average ANN tile: 56
+P-value: 0.0000002613
+Number of demo points: 7/7
+avg: 7.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 41.96
+Average ANN tile: 54
+P-value: 0.0000004073
+Number of demo points: 7/7
+avg: 7.0
+Topology: [40, 30] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [40, 30] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [40, 30] lr: 0.001 dataset: human - normalized
+Average random tile: 45.6
+Average ANN tile: 47
+P-value: 0.3763978749
+Number of demo points: 1/7
+avg: 1.0
+Topology: [40, 30] lr: 0.001 dataset: human - normalized
+Average random tile: 44.24
+Average ANN tile: 51
+P-value: 0.0008605164
+Number of demo points: 4/7
+avg: 4.0
+Topology: [40, 30] lr: 0.001 dataset: human - normalized
+Average random tile: 44.3
+Average ANN tile: 46
+P-value: 0.2443209668
+Number of demo points: 1/7
+avg: 1.0
+Topology: [120] lr: 0.001 dataset: human - normalized
+Average random tile: 42.96
+Average ANN tile: 44
+P-value: 0.3584656253
+Number of demo points: 1/7
+avg: 1.0
+Topology: [120] lr: 0.001 dataset: human - normalized
+Average random tile: 44.86
+Average ANN tile: 47
+P-value: 0.1665063989
+Number of demo points: 1/7
+avg: 1.0
+Topology: [120] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [25, 20] lr: 0.001 dataset: human - normalized
+Average random tile: 42.56
+Average ANN tile: 47
+P-value: 0.0078632970
+Number of demo points: 3/7
+avg: 3.0
+Topology: [25, 20] lr: 0.001 dataset: human - normalized
+Average random tile: 43.52
+Average ANN tile: 47
+P-value: 0.0371380102
+Number of demo points: 2/7
+avg: 2.0
+Topology: [25, 20] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [25, 10] lr: 0.001 dataset: human - normalized
+Average random tile: 45.8
+Average ANN tile: 48
+P-value: 0.2606078767
+Number of demo points: 1/7
+avg: 1.0
+Topology: [25, 10] lr: 0.001 dataset: human - normalized
+Average random tile: 41.66
+Average ANN tile: 46
+P-value: 0.0037636338
+Number of demo points: 3/7
+avg: 3.0
+Topology: [25, 10] lr: 0.001 dataset: human - normalized
+Average random tile: 41.12
+Average ANN tile: 46
+P-value: 0.0035445706
+Number of demo points: 3/7
+avg: 3.0
+Topology: [25, 10] lr: 0.001 dataset: human - normalized
+Average random tile: 43.3
+Average ANN tile: 48
+P-value: 0.0248154998
+Number of demo points: 2/7
+avg: 2.0
+Topology: [25, 10] lr: 0.001 dataset: human - normalized
+Average random tile: 42.16
+Average ANN tile: 49
+P-value: 0.0017715889
+Number of demo points: 3/7
+avg: 3.0
+Topology: [25, 10] lr: 0.001 dataset: human - normalized
+Average random tile: 43.6
+Average ANN tile: 51
+P-value: 0.0002266775
+Number of demo points: 4/7
+avg: 4.0
+Topology: [25, 10] lr: 0.001 dataset: human - normalized
+Average random tile: 45.2
+Average ANN tile: 48
+P-value: 0.1507066745
+Number of demo points: 1/7
+avg: 1.0
+Topology: [25, 10] lr: 0.001 dataset: human - normalized
+Average random tile: 45.38
+Average ANN tile: 48
+P-value: 0.0870840943
+Number of demo points: 2/7
+avg: 2.0
+Topology: [25, 10] lr: 0.001 dataset: human - normalized
+Average random tile: 44.08
+Average ANN tile: 46
+P-value: 0.2654945943
+Number of demo points: 1/7
+avg: 1.0
+Topology: [25, 10] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [25, 10] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [25, 10] lr: 0.001 dataset: human - normalized
+Average random tile: 44.42
+Average ANN tile: 46
+P-value: 0.3049192667
+Number of demo points: 1/7
+avg: 1.0
+Topology: [25, 10] lr: 0.001 dataset: human - normalized
+Error: Expected 2 lists with 50 integers each, found 300 integers instead.
+Topology: [20, 5] lr: 0.0025 dataset: human - normalized
+Average random tile: 43.86
+Average ANN tile: 44
+P-value: 0.6510760997
+Number of demo points: 1/7
+avg: 1.0
+Topology: [20, 5] lr: 0.0025 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [20, 5] lr: 0.0025 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [20, 5] lr: 0.0025 dataset: human - normalized
+Average random tile: 43.6
+Average ANN tile: 43
+P-value: 0.9124765933
+Number of demo points: 1/7
+avg: 1.0
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 41.86
+Average ANN tile: 45
+P-value: 0.1031829404
+Number of demo points: 1/7
+avg: 1.0
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 41.26
+Average ANN tile: 54
+P-value: 0.0000000132
+Number of demo points: 7/7
+avg: 7.0
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 44.28
+Average ANN tile: 53
+P-value: 0.0000428894
+Number of demo points: 5/7
+avg: 5.0
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 44.56
+Average ANN tile: 48
+P-value: 0.0386077551
+Number of demo points: 2/7
+avg: 2.0
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 43.48
+Average ANN tile: 44
+P-value: 0.5634479727
+Number of demo points: 1/7
+avg: 1.0
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 41.52
+Average ANN tile: 45
+P-value: 0.0324966180
+Number of demo points: 2/7
+avg: 2.0
+Topology: [50] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 44.6
+Average ANN tile: 45
+P-value: 0.8092926874
+Number of demo points: 1/7
+avg: 1.0
+Topology: [50] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [50] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 42.44
+Average ANN tile: 42
+P-value: 0.9651535722
+Number of demo points: 1/7
+avg: 1.0
+Topology: [25, 20] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 42.7
+Average ANN tile: 43
+P-value: 0.8201455876
+Number of demo points: 1/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.86
+Average ANN tile: 45
+P-value: 0.2900788543
+Number of demo points: 1/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.56
+Average ANN tile: 45
+P-value: 0.3400721070
+Number of demo points: 1/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 41.74
+Average ANN tile: 44
+P-value: 0.1263626069
+Number of demo points: 1/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 42.74
+Average ANN tile: 43
+P-value: 0.7165400329
+Number of demo points: 1/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.02
+Average ANN tile: 48
+P-value: 0.0267458829
+Number of demo points: 2/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.18
+Average ANN tile: 45
+P-value: 0.1205807007
+Number of demo points: 1/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 41.62
+Average ANN tile: 44
+P-value: 0.1739681829
+Number of demo points: 1/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 42.3
+Average ANN tile: 43
+P-value: 0.4270933551
+Number of demo points: 1/7
+avg: 1.0
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 41.92
+Average ANN tile: 49
+P-value: 0.0000747801
+Number of demo points: 5/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.22
+Average ANN tile: 46
+P-value: 0.0670234505
+Number of demo points: 2/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 43.26
+Average ANN tile: 49
+P-value: 0.0036073561
+Number of demo points: 3/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 44.26
+Average ANN tile: 47
+P-value: 0.1149563342
+Number of demo points: 1/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 44.08
+Average ANN tile: 47
+P-value: 0.1056773607
+Number of demo points: 1/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 44.16
+Average ANN tile: 53
+P-value: 0.0000790302
+Number of demo points: 5/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 42.78
+Average ANN tile: 49
+P-value: 0.0059923899
+Number of demo points: 3/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 42.78
+Average ANN tile: 53
+P-value: 0.0000001237
+Number of demo points: 7/7
+avg: 2.5
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 45.12
+Average ANN tile: 49
+P-value: 0.0470049453
+Number of demo points: 2/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 45.64
+Average ANN tile: 49
+P-value: 0.1060434460
+Number of demo points: 1/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 40.52
+Average ANN tile: 41
+P-value: 0.5707986689
+Number of demo points: 1/7
+avg: 2.1
+Topology: [50] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 43.94
+Average ANN tile: 47
+P-value: 0.1089723187
+Number of demo points: 1/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 43.48
+Average ANN tile: 48
+P-value: 0.0089416965
+Number of demo points: 3/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 44.42
+Average ANN tile: 51
+P-value: 0.0061678473
+Number of demo points: 3/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 42.04
+Average ANN tile: 42
+P-value: 0.7909796078
+Number of demo points: 1/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 47.24
+Average ANN tile: 50
+P-value: 0.0868169983
+Number of demo points: 2/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 1.0
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.98
+Average ANN tile: 45
+P-value: 0.4938856984
+Number of demo points: 1/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 45.94
+Average ANN tile: 46
+P-value: 0.5926233097
+Number of demo points: 1/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 44.82
+Average ANN tile: 46
+P-value: 0.4722098003
+Number of demo points: 1/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.64
+Average ANN tile: 44
+P-value: 0.6380616886
+Number of demo points: 1/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 41.92
+Average ANN tile: 52
+P-value: 0.0000091535
+Number of demo points: 6/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 44.56
+Average ANN tile: 45
+P-value: 0.5739806791
+Number of demo points: 1/7
+avg: 0.5
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 44.64
+Average ANN tile: 48
+P-value: 0.0810751700
+Number of demo points: 2/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 44.38
+Average ANN tile: 50
+P-value: 0.0021522196
+Number of demo points: 3/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.34
+Average ANN tile: 51
+P-value: 0.0004716438
+Number of demo points: 4/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.42
+Average ANN tile: 45
+P-value: 0.4108824228
+Number of demo points: 1/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 44.24
+Average ANN tile: 48
+P-value: 0.0996421337
+Number of demo points: 2/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.16
+Average ANN tile: 43
+P-value: 0.8279624679
+Number of demo points: 1/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 42.46
+Average ANN tile: 52
+P-value: 0.0000802091
+Number of demo points: 5/7
+Topology: [20, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 42.36
+Average ANN tile: 52
+P-value: 0.0000002983
+Number of demo points: 7/7
+avg: 3.6
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 47.84
+Average ANN tile: 57
+P-value: 0.0000277027
+Number of demo points: 5/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.24
+Average ANN tile: 53
+P-value: 0.0000062497
+Number of demo points: 6/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.24
+Average ANN tile: 55
+P-value: 0.0000036506
+Number of demo points: 6/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 45.3
+Average ANN tile: 50
+P-value: 0.0185745204
+Number of demo points: 2/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.46
+Average ANN tile: 54
+P-value: 0.0000038911
+Number of demo points: 6/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 42.26
+Average ANN tile: 43
+P-value: 0.4262280671
+Number of demo points: 1/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.18
+Average ANN tile: 51
+P-value: 0.0002870845
+Number of demo points: 4/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.64
+Average ANN tile: 48
+P-value: 0.0155835282
+Number of demo points: 2/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 42.34
+Average ANN tile: 48
+P-value: 0.0068660684
+Number of demo points: 3/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 45.94
+Average ANN tile: 64
+P-value: 0.0000000000
+Number of demo points: 7/7
+avg: 4.2
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 44.08
+Average ANN tile: 46
+P-value: 0.3355142882
+Number of demo points: 1/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 44.9
+Average ANN tile: 54
+P-value: 0.0000272540
+Number of demo points: 5/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 45.12
+Average ANN tile: 48
+P-value: 0.1028765093
+Number of demo points: 1/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 42.34
+Average ANN tile: 52
+P-value: 0.0000066753
+Number of demo points: 6/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 44.26
+Average ANN tile: 52
+P-value: 0.0004096491
+Number of demo points: 4/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 42.62
+Average ANN tile: 55
+P-value: 0.0000000011
+Number of demo points: 7/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.34
+Average ANN tile: 53
+P-value: 0.0000306554
+Number of demo points: 5/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 45.46
+Average ANN tile: 49
+P-value: 0.0832633416
+Number of demo points: 2/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.42
+Average ANN tile: 54
+P-value: 0.0000126039
+Number of demo points: 5/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 43.76
+Average ANN tile: 48
+P-value: 0.0378353804
+Number of demo points: 2/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 44.42
+Average ANN tile: 50
+P-value: 0.0060195766
+Number of demo points: 3/7
+Topology: [19, 5] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 5] lr: 0.001 dataset: human - normalized
+Average random tile: 44.68
+Average ANN tile: 55
+P-value: 0.0000000486
+Number of demo points: 7/7
+avg: 4.1
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.68
+Average ANN tile: 44
+P-value: 0.7531445573
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.86
+Average ANN tile: 58
+P-value: 0.0000000010
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.66
+Average ANN tile: 46
+P-value: 0.0315792827
+Number of demo points: 2/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.7
+Average ANN tile: 61
+P-value: 0.0000000000
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.94
+Average ANN tile: 54
+P-value: 0.0000085613
+Number of demo points: 6/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.46
+Average ANN tile: 45
+P-value: 0.1591515770
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.68
+Average ANN tile: 50
+P-value: 0.0037009362
+Number of demo points: 3/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 45
+Average ANN tile: 55
+P-value: 0.0000042603
+Number of demo points: 6/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 41.96
+Average ANN tile: 54
+P-value: 0.0000000145
+Number of demo points: 7/7
+avg: 4.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.74
+Average ANN tile: 55
+P-value: 0.0000013616
+Number of demo points: 6/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.44
+Average ANN tile: 49
+P-value: 0.0001757118
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.86
+Average ANN tile: 52
+P-value: 0.0003593123
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 41.82
+Average ANN tile: 49
+P-value: 0.0004544992
+Number of demo points: 4/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 45.56
+Average ANN tile: 51
+P-value: 0.0017658183
+Number of demo points: 3/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.56
+Average ANN tile: 46
+P-value: 0.1442278057
+Number of demo points: 1/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.18
+Average ANN tile: 53
+P-value: 0.0000041609
+Number of demo points: 6/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.38
+Average ANN tile: 55
+P-value: 0.0000001684
+Number of demo points: 7/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.42
+Average ANN tile: 50
+P-value: 0.0089365312
+Number of demo points: 3/7
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 43.48
+Average ANN tile: 50
+P-value: 0.0023656510
+Number of demo points: 3/7
+avg: 4.1
+Topology: [200, 100] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [200, 100] lr: 0.001 dataset: human - normalized
+Average random tile: 44
+Average ANN tile: 50
+P-value: 0.0018321483
+Number of demo points: 3/7
+Topology: [200, 100] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [200, 100] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [200, 100] lr: 0.001 dataset: human - normalized
+Average random tile: 40.66
+Average ANN tile: 44
+P-value: 0.0828630937
+Number of demo points: 2/7
+Topology: [200, 100] lr: 0.001 dataset: human - normalized
+Average random tile: 44.04
+Average ANN tile: 51
+P-value: 0.0030566849
+Number of demo points: 3/7
+Topology: [200, 100] lr: 0.001 dataset: human - normalized
+Average random tile: 43.74
+Average ANN tile: 45
+P-value: 0.5577130643
+Number of demo points: 1/7
+Topology: [200, 100] lr: 0.001 dataset: human - normalized
+Average random tile: 42.6
+Average ANN tile: 49
+P-value: 0.0014137922
+Number of demo points: 3/7
+Topology: [200, 100] lr: 0.001 dataset: human - normalized
+Average random tile: 42.62
+Average ANN tile: 48
+P-value: 0.0112953383
+Number of demo points: 2/7
+Topology: [200, 100] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 1.4
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 44.56
+Average ANN tile: 49
+P-value: 0.0175553607
+Number of demo points: 2/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 42.34
+Average ANN tile: 52
+P-value: 0.0000225218
+Number of demo points: 5/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 43
+Average ANN tile: 47
+P-value: 0.0434295994
+Number of demo points: 2/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 43.3
+Average ANN tile: 43
+P-value: 0.9778811378
+Number of demo points: 1/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 41.6
+Average ANN tile: 51
+P-value: 0.0000786400
+Number of demo points: 5/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 41.78
+Average ANN tile: 43
+P-value: 0.4709559314
+Number of demo points: 1/7
+Topology: [50] lr: 0.001 dataset: human - normalized
+Average random tile: 45.6
+Average ANN tile: 52
+P-value: 0.0013244488
+Number of demo points: 3/7
+avg: 1.9
+Topology: [50] lr: 0.001 dataset: human - normalized
+Error: Expected 2 lists with 50 integers each, found 51 integers instead.
+Topology: [50] lr: 0.001 dataset: human - normalized
+Error: Expected 2 lists with 50 integers each, found 51 integers instead.
+Topology: [50] lr: 0.001 dataset: human - normalized
+Error: Expected 2 lists with 50 integers each, found 51 integers instead.
+Topology: [50] lr: 0.001 dataset: human - normalized
+Error: Expected 2 lists with 50 integers each, found 51 integers instead.
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Error: Expected 2 lists with 50 integers each, found 51 integers instead.
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Error: Expected 2 lists with 50 integers each, found 51 integers instead.
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 45.06
+Average ANN tile: 52
+P-value: 0.0009434063
+Number of demo points: 4/7
+avg: 4.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.54
+Average ANN tile: 54
+P-value: 0.0000108238
+Number of demo points: 5/7
+avg: 5.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 41.56
+Average ANN tile: 52
+P-value: 0.0000007692
+Number of demo points: 7/7
+avg: 7.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 42.48
+Average ANN tile: 54
+Std. random tile: 9.0446511422893
+Std. ANN tile: 11.060796738472
+P-value: 0.0000000960
+Number of demo points: 7/7
+avg: 7.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 44.74
+Average ANN tile: 56
+Std. random tile: 8.5016444987822
+Std. ANN tile: 10.995899050026
+P-value: 0.0000000775
+Number of demo points: 7/7
+avg: 7.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+ANN results worse than random
+Make sure you send random results is the first argument
+Number of demo points: 0
+0avg: 0.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 45.34
+Average ANN tile: 54
+Std. random tile: 9.1173975878816
+Std. ANN tile: 11.060796738472
+P-value: 0.0000342527
+Number of demo points: 5/7
+avg: 5.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 106.88
+Average ANN tile: 164
+Std. random tile: 54.708369691353
+Std. ANN tile: 85.770039010349
+P-value: 0.0001349611
+Number of demo points: 4/7
+avg: 4.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 105.6
+Average ANN tile: 183
+Std. random tile: 51.415871447781
+Std. ANN tile: 106.63096000999
+P-value: 0.0000164587
+Number of demo points: 5/7
+avg: 5.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 119.04
+Average ANN tile: 159
+Std. random tile: 66.258910837005
+Std. ANN tile: 75.252435040946
+P-value: 0.0054474988
+Number of demo points: 3/7
+avg: 3.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 112
+Average ANN tile: 197
+Std. random tile: 58.987373259721
+Std. ANN tile: 87.542558746228
+P-value: 0.0000001642
+Number of demo points: 7/7
+avg: 7.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 105.28
+Average ANN tile: 215
+Std. random tile: 66.724850800026
+Std. ANN tile: 123.18112762953
+P-value: 0.0000004228
+Number of demo points: 7/7
+avg: 7.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 122.24
+Average ANN tile: 144
+Std. random tile: 63.57080577544
+Std. ANN tile: 87.513907932583
+P-value: 0.1466177365
+Number of demo points: 1/7
+avg: 1.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 120.32
+Average ANN tile: 169
+Std. random tile: 63.856164901428
+Std. ANN tile: 93.518960207903
+P-value: 0.0027989088
+Number of demo points: 3/7
+avg: 3.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 104.32
+Average ANN tile: 186
+Std. random tile: 50.414380844342
+Std. ANN tile: 110.91909903444
+P-value: 0.0000092738
+Number of demo points: 6/7
+avg: 6.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 114.56
+Average ANN tile: 174
+Std. random tile: 62.376133583417
+Std. ANN tile: 88.681001347527
+P-value: 0.0002000601
+Number of demo points: 4/7
+avg: 4.0
+Topology: [19, 4] lr: 0.001 dataset: human - normalized
+Average random tile: 108.8
+Average ANN tile: 154
+Std. random tile: 68.112751660578
+Std. ANN tile: 75.307955511123
+P-value: 0.0020765775
+Number of demo points: 3/7
+avg: 3.0

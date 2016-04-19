@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" fx:id="parentPane" focusTraversable="true" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="sample.Controller">
+  <children>
+    <GridPane gridLinesVisible="true" layoutX="150.0" layoutY="50.0" prefHeight="300.0" prefWidth="300.0">
+      <children>
+        <Label fx:id="label_00" alignment="CENTER" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="2" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="0" GridPane.rowIndex="0">
+          <font>
+            <Font size="20.0" fx:id="x1" />
+          </font>
+        </Label>
+        <Label id="label_00" fx:id="label_01" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="4" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+        <Label id="label_00" fx:id="label_02" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="8" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+        <Label id="label_00" fx:id="label_03" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="16" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="0" GridPane.rowIndex="3" />
+        <Label id="label_00" fx:id="label_10" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="64" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="1" GridPane.rowIndex="0" />
+        <Label id="label_00" fx:id="label_11" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="64" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+        <Label id="label_00" fx:id="label_12" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="128" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+        <Label id="label_00" fx:id="label_13" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="256" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+        <Label id="label_00" fx:id="label_20" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="516" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="2" GridPane.rowIndex="0" />
+        <Label id="label_00" fx:id="label_21" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="1028" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+        <Label id="label_00" fx:id="label_22" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="2048" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+        <Label id="label_00" fx:id="label_23" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="2" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+        <Label id="label_00" fx:id="label_30" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="2" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="3" GridPane.rowIndex="0" />
+        <Label id="label_00" fx:id="label_31" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="2" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+        <Label id="label_00" fx:id="label_32" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="2" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+        <Label id="label_00" fx:id="label_33" alignment="CENTER" font="$x1" prefHeight="75.0" prefWidth="75.0" scaleX="1.0" text="2" textAlignment="CENTER" wrapText="false" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+      </children>
+      <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+      </columnConstraints>
+      <rowConstraints>
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      </rowConstraints>
+    </GridPane>
+    <Button fx:id="undo" layoutX="35.0" layoutY="200.0" mnemonicParsing="false" onAction="#undoMove" text="Undo" />
+    <Label fx:id="moveCounterLabel" font="$x1" layoutX="150.0" layoutY="14.0" text="" />
+    <Button id="runAI" fx:id="runAIButton" layoutX="32.0" layoutY="50.0" mnemonicParsing="false" onAction="#runAI" text="Run AI" />
+    <Button fx:id="hint" layoutX="32.0" layoutY="131.0" mnemonicParsing="false" prefWidth="55.0" text="Hint" />
+    <Label fx:id="moveHint" layoutX="35.0" layoutY="114.0" text="" />
+    <TextField fx:id="delay" layoutX="60.0" layoutY="400.0" text="0" />
+    <Label text="Delay" layoutX="10.0" layoutY="400.0" />
+    <Label id="evaluationScore" fx:id="evaluationScoreLabel" font="$x1" layoutX="300.0" layoutY="14.0" text="" />
+  </children>
+</AnchorPane>
